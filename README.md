@@ -18,3 +18,15 @@
 - <a href="https://www.linkedin.com/in/renandefgoncalves">Renan de França Gonçalves</a>
 RM 558413
 
+### Disciplinas e seus respectivos Desafios:
+
+- IA Computer Systems and Sensors
+- IA Challenges
+- Statistical Computing with R
+- Cognitive Data Science
+- Machine Learning & Modelling
+- Cognitive CyberSecurity
+- Plataformas e Serviços Cognitivos
+- Redes Neurais Artificiais, Deep Learning e Algoritmos Genéticos
+- Computational Thinking with Python
+
